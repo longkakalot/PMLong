@@ -1,0 +1,11 @@
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Google Drive Multiples\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfiles.resources

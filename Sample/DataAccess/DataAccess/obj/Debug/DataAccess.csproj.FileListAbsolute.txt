@@ -1,0 +1,5 @@
+G:\Google Drive Multiple\csharp.long.bvntp\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\Sample\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+G:\Google Drive Multiple\csharp.long.bvntp\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\Sample\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+G:\Google Drive Multiple\csharp.long.bvntp\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\Sample\DataAccess\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\Google Drive Multiple\csharp.long.bvntp\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\Sample\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+G:\Google Drive Multiple\csharp.long.bvntp\csharp.long.bvntp@gmail.com\My Documents\PM LONG\PMLong\Sample\DataAccess\DataAccess\obj\Debug\DataAccess.pdb

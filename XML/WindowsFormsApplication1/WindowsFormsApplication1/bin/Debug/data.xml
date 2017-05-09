@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSACH_CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6581</STT>
+    <MA_DICH_VU>22.0289.1275</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>1</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Định nhóm máu hệ ABO, Rh(D) (Kỹ thuật Scangel/Gelcard trên máy tự động)]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>75000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>75000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6582</STT>
+    <MA_DICH_VU>22.0121.1369</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>1</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser)]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>40000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>40000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6583</STT>
+    <MA_DICH_VU>37.1E01.1354</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>1</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Thời gian thromboplastin hoạt hoá từng phần (APTT)]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>35000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>35000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6584</STT>
+    <MA_DICH_VU>37.1E01.1352</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>1</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Thời gian Prothrombin (PT,TQ) bằng máy bán tự động, tự động]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>55000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>55000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6585</STT>
+    <MA_DICH_VU>37.2A01.0001</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>2</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Siêu âm màu (Sản)]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>30000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>30000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+  <CHI_TIET_DVKT>
+    <MA_LK>160901095425256770015</MA_LK>
+    <STT>6586</STT>
+    <MA_DICH_VU>37.13H1.1896</MA_DICH_VU>
+    <MA_VAT_TU>
+    </MA_VAT_TU>
+    <MA_NHOM>13</MA_NHOM>
+    <TEN_DICH_VU>&lt;![CDATA[Khám lâm sàng chung, khám chuyên khoa]]&gt;</TEN_DICH_VU>
+    <DON_VI_TINH>lần</DON_VI_TINH>
+    <SO_LUONG>1</SO_LUONG>
+    <DON_GIA>20000</DON_GIA>
+    <TYLE_TT>100</TYLE_TT>
+    <THANH_TIEN>20000</THANH_TIEN>
+    <MA_KHOA>K01</MA_KHOA>
+    <MA_BAC_SI />
+    <MA_BENH>Z32.1</MA_BENH>
+    <NGAY_YL>201609010000</NGAY_YL>
+    <NGAY_KQ />
+    <MA_PTTT>0</MA_PTTT>
+  </CHI_TIET_DVKT>
+</DSACH_CHI_TIET_DVKT>
