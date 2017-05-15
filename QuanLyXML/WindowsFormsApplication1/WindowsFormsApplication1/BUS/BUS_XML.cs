@@ -148,6 +148,15 @@ namespace WindowsFormsApplication1.BUS
                 string[] arrMaBenhKhac = new string[] { maBenhKhac_XML1 };
                 File.AppendAllLines(@"E:\XML1\" + tenfile + "_Ma_BenhKhac_XML1" + ".txt", arrMaBenhKhac);
 
+                string ngayvao_XML1 = node.SelectSingleNode("NGAY_VAO").InnerText;
+                string[] arrNgayVao = new string[] { ngayvao_XML1 };
+                File.AppendAllLines(@"E:\XML1\" + tenfile + "_Ngay_Vao" + ".txt", arrNgayVao);
+
+                string ngayra_XML1 = node.SelectSingleNode("NGAY_RA").InnerText;
+                string[] arrNgayra = new string[] { ngayra_XML1 };
+                File.AppendAllLines(@"E:\XML1\" + tenfile + "_Ngay_Ra" + ".txt", arrNgayra);
+
+
                 DataRow dr = dtXML1.NewRow();
                 dr["MA_LK"] = maLK_XML1;
                 dr["MA_BN"] = maBN_XML1;
@@ -155,6 +164,8 @@ namespace WindowsFormsApplication1.BUS
                 dr["TEN_BENH"] = tenBenh_XML1;
                 dr["MA_BENH"] = maBenh_XML1;
                 dr["MA_BENHKHAC"] = maBenhKhac_XML1;
+                dr["NGAY_VAO"] = ngayvao_XML1;
+                dr["NGAY_RA"] = ngayra_XML1;
                 dtXML1.Rows.Add(dr);
             }
             return dtXML1;

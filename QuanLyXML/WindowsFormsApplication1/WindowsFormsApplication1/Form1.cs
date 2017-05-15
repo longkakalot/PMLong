@@ -60,6 +60,8 @@ namespace WindowsFormsApplication1
             dtXML1.Columns.Add("TEN_BENH");
             dtXML1.Columns.Add("MA_BENH");
             dtXML1.Columns.Add("MA_BENHKHAC");
+            dtXML1.Columns.Add("NGAY_VAO");
+            dtXML1.Columns.Add("NGAY_RA");
             FolderBrowserDialog fd = new FolderBrowserDialog();
             DialogResult result = fd.ShowDialog();
             int countFileXML = Directory.GetFiles(fd.SelectedPath).Length;
